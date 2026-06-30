@@ -27,3 +27,14 @@ This repository documents my journey as I build strong programming fundamentals 
 Day_01/
 Day_02/
 Projects/
+```
+## Future Learning
+
+- C Programming
+- Data Structures
+- Digital Electronics
+- Verilog
+- VLSI Design
+
+---
+⭐ Learning one commit at a time.
